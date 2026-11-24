@@ -14,7 +14,7 @@ dentro de styles.html:
         <item name="android:textColor">@color/Doreja2</item>
     </style>
     
-    <style name="BotonCancel" parent="Widget.MaterialComponents.Button.OutlinedButton">
+<style name="BotonCancel" parent="Widget.MaterialComponents.Button.OutlinedButton">
         <item name="android:layout_width">0dp</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textColor">@color/Doreja1</item>
@@ -44,7 +44,7 @@ signup.xml:
         style="@style/BotonSignup"
         />
 
-    <Button
+<Button
         android:id="@+id/botonCancel"
         android:layout_height="wrap_content"
         android:layout_width="0dp"
