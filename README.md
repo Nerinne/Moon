@@ -23,6 +23,8 @@ dentro de styles.html:
         <item name="strokeWidth">1dp</item>
     </style>
 
+
+
 crear una nueva activity
 file -> new -> activity -> emptyViewsActivity -> signup (añadir el git)
 Copiar todo (menos la cabecera) de main.xml a signup
@@ -32,6 +34,8 @@ signup.xml:
   3 text imput
   2 botones: signup y cancel
   opcional añadir fotos a los fondos de pantalla
+
+
 
 <Button
         android:id="@+id/botonSignup"
